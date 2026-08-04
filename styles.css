@@ -1,0 +1,44 @@
+body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+
+    header {
+        background-color: #f0f0f0;
+        padding: 20px;
+        text-align: center;
+    }
+
+    .profile-image {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        object-fit: cover;
+        margin-bottom: 10px;
+    }
+
+    section {
+        padding: 20px;
+        margin: 20px 0;
+    }
+
+    h2 {
+        color: #333;
+    }
+
+    ul {
+        list-style-type: disc;
+        margin-left: 20px;
+    }
+
+    a {
+        color: #007bff;
+        text-decoration: underline;
+    }
+
+    .footer {
+        background-color: #f0f0f0;
+        padding: 20px;
+        text-align: center;
+    }
